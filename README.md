@@ -137,8 +137,8 @@ startup-idea/
 ## 📞 Contact
 
 For any queries or support, please reach out to:
-- Email: your.email@example.com
-- Project Link: https://github.com/yourusername/startup-idea
+- Email: sharjeelbhullar@gmail.com
+- Project Link: https://startupmate.streamlit.app/
 
 ## 🔄 Updates
 
