@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Startup_idea_Validator/static/css/main.ce6377ba.css",
+    "main.js": "/Startup_idea_Validator/static/js/main.12ee3751.js",
+    "index.html": "/Startup_idea_Validator/index.html",
+    "main.ce6377ba.css.map": "/Startup_idea_Validator/static/css/main.ce6377ba.css.map",
+    "main.12ee3751.js.map": "/Startup_idea_Validator/static/js/main.12ee3751.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce6377ba.css",
+    "static/js/main.12ee3751.js"
+  ]
+}
